@@ -10,4 +10,4 @@ on:
 jobs:
   # This workflow contains a single job called "greet"
   greet:
-    uses: cschleiden/actions-callable/.github/workflows/called.yml@main
+    uses: cschleiden/actions-callable/.github/workflows/called.yaml@main
