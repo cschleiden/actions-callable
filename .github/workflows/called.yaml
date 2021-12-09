@@ -1,0 +1,8 @@
+name: Reusable workflow example
+
+on:
+  workflow_call:
+
+jobs:
+  example_job:
+    uses: pied-piper-inc/cschleiden-test/.github/workflows/exists.yml@main
