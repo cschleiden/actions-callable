@@ -8,4 +8,4 @@ on:
 
 jobs:
   greet:
-    uses: pied-piper-inc/cschleiden-test/.github/workflows/test.yml@main123
+    uses: pied-piper-inc/cschleiden-test/readme@main
