@@ -1,6 +1,6 @@
 # This is a basic workflow that is manually triggered
 
-name: Manual workflow
+name: Oracle 3
 
 on:
   workflow_dispatch:
