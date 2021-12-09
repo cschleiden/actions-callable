@@ -10,4 +10,4 @@ on:
 jobs:
   # This workflow contains a single job called "greet"
   greet:
-    uses: pied-piper-inc/cschleiden-test/.github/workflows/test.yml@master
+    uses: pied-piper-inc/cschleiden-test/.github/workflows/test.yml@main
