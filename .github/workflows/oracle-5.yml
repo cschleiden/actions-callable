@@ -1,0 +1,13 @@
+# This is a basic workflow that is manually triggered
+
+name: Oracle 5
+
+on:
+  workflow_dispatch:
+   
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "greet"
+  greet:
+    uses: cschleiden/actions-callable/.github/workflows/called.yml@main
